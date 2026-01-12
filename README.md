@@ -64,7 +64,8 @@ nshots/cohort-builder.png)
 ### 3. Cohort Comparison
 Compares outcomes and hospitalization rates across saved cohorts.
   
-![Cohort Comparison]<img width="1441" height="737" alt="Screenshot 2<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 41 PM" src="https://github.com/user-attachments/assets/ac5244df-134d-4463-bf68-eea5c0b32b30" />
+![Cohort Comparison]<img width="1441" height="737" alt="Screenshot 2<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 41 PM" src="https://github.com/user-attachments/assets<img width="1441" height="505" alt="Screenshot 2026-01-12 at 8 06 58 PM" src="https://github.com/user-attachments/assets/ac927bb6-23ef-4fd2-83d9-2b5f7fa2da86" />
+/ac5244df-134d-4463-bf68-eea5c0b32b30" />
 026-01-12 at 8 02 01 PM" src="https://github.com/user-attachments/assets/84773d75-680e-4bb7-bd9b-46b2e1719ff1" />
 (screenshots/cohort-compare.png)
 
