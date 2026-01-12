@@ -44,8 +44,7 @@ Synthetic real-world evidence dataset with:
 
 ## 📸 Screenshots
 ![Upload](screenshots/upload.p<img width="1112" height="654" alt="Screenshot 2026-01-12 at 7 28 52 PM" src="https://gi<img width="1147" height="720" alt="Screenshot 2026-01-12 at 7 29 33 PM" src="https://github.com/user-attachments/assets/0c951f37-465b-49a8-8b53-b0cc67497eab" />
-thub.com/user-attachments/assets/1b0aca64-2d03-4b54-9b83-e457d4a571f4" /><img width="1441" height="747" <img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 33 PM" src="https://github.com/user-attachments/assets/8796c0f5-1f9d-4bca-b87f-26b9e389c8a2" />
-alt="Screenshot 2026-01-12 at 7 32 59 PM" src="https://github.com/user-attachments/assets/6bf5a11b-2617-4022-bf92-1855b803fd83" />
+thub.com/user-attachments/assets/1b0aca64-2d03-4b54-9b83-e457d4a571f4" /><img width="1441" height="747" 
 
 ng)
 ![Cohort Builder](screenshots/cohort-builder.png)
