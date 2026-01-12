@@ -43,17 +43,38 @@ Synthetic real-world evidence dataset with:
 - In-memory cohort management
 
 ## 📸 Screenshots
-![Upload](screenshots/upload.p<img width="1112" height="654" alt="Screenshot 2026-01-12 at 7 28 52 PM" src="https://gi<img width="1147" height="720" alt="Screenshot 2026-01-12 at 7 29 33 PM" src="https://github.com/user-attachments/assets/0c951f37-465b-49a8-8b53-b0cc67497eab" />
-thub.com/user-attachments/assets/1b0aca64-2d03-4b54-9b83-e457d4a571f4" /><img width="1441" height="747" 
 
-ng)
-![Cohort Builder](screenshots/cohort-builder.png)
-![Cohort Comparison](sc<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 33 27 PM" src="https://github.com/user-attachments/assets/c80329d9-6621-4cc9-a866-1858026b1fb2" />
-reenshot<img width="1441" height="747" alt="Scree<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 33 PM" src="https://github.com/user-attachments/assets/fac92bce-b8fd-4c4a-96a4-646521fd4f96" />
-nshot 2026-01-12 at 7 33 09 PM" src="https://github.com/user-attachments/assets/07fee75c-0e40-4033-ab8f-d9<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 41 PM" src="https://github.com/user-attachments/assets/0a2bd39a-5d04-48dd-9a9e-db122cc3f1bf" />
-6015cf74a8" />
-s/cohort-compare.png)
-![Auto Insights](screenshots/auto-insights.png)
+### 1. CSV Upload Interface
+Shows how users upload real-world patient datasets into the application.
+  <img width="1147" height="720" alt="Screenshot 2026-01-12 at 7 29 33 PM" src="https://github.com/user-attachments/assets/0661eb0a-61b5-4c8d-836d-ec3c0a7f101e" />
+
+![CSV Upload](screenshots/upload.png)
+
+---
+
+### 2. Cohort Builder
+Allows users to define patient cohorts based on diagnosis, treatment, and outcomes.
+  <img width="1441" height="747" alt="Screenshot 2026-01-12 at 7 33 09 PM" src="https://github.com/user-attachments/assets/4c4c9ad8-3c3a-46c2-8f90-f9fe9056eb85" />
+
+![Cohort Builder](scree<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 33 27 PM" src="https://github.com/user-attachments/assets/1656b090-d8fe-4864-80c7-cf179e8d3637" />
+nshots/cohort-builder.png)
+
+---
+
+### 3. Cohort Comparison
+Compares outcomes and hospitalization rates across saved cohorts.
+  
+![Cohort Comparison]<img width="1441" height="737" alt="Screenshot 2<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 41 PM" src="https://github.com/user-attachments/assets/ac5244df-134d-4463-bf68-eea5c0b32b30" />
+026-01-12 at 8 02 01 PM" src="https://github.com/user-attachments/assets/84773d75-680e-4bb7-bd9b-46b2e1719ff1" />
+(screenshots/cohort-compare.png)
+
+---
+
+### 4. Auto-Generated Insights
+Automatically generates narrative insights from cohort-level results.
+  
+![Auto Insights](screensho<img width="1441" height="357" alt="Screenshot 2026-01-12 at 8 02 16 PM" src="https://github.com/user-attachments/assets/7f8c9bee-ece4-4a67-98ed-42d82c6666a0" />
+ts/auto-insights.png)
 
 ## 🚀 Why This Project Matters
 This project demonstrates:
