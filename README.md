@@ -43,9 +43,17 @@ Synthetic real-world evidence dataset with:
 - In-memory cohort management
 
 ## 📸 Screenshots
-![Upload](screenshots/upload.png)
+![Upload](screenshots/upload.p<img width="1112" height="654" alt="Screenshot 2026-01-12 at 7 28 52 PM" src="https://gi<img width="1147" height="720" alt="Screenshot 2026-01-12 at 7 29 33 PM" src="https://github.com/user-attachments/assets/0c951f37-465b-49a8-8b53-b0cc67497eab" />
+thub.com/user-attachments/assets/1b0aca64-2d03-4b54-9b83-e457d4a571f4" /><img width="1441" height="747" <img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 33 PM" src="https://github.com/user-attachments/assets/8796c0f5-1f9d-4bca-b87f-26b9e389c8a2" />
+alt="Screenshot 2026-01-12 at 7 32 59 PM" src="https://github.com/user-attachments/assets/6bf5a11b-2617-4022-bf92-1855b803fd83" />
+
+ng)
 ![Cohort Builder](screenshots/cohort-builder.png)
-![Cohort Comparison](screenshots/cohort-compare.png)
+![Cohort Comparison](sc<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 33 27 PM" src="https://github.com/user-attachments/assets/c80329d9-6621-4cc9-a866-1858026b1fb2" />
+reenshot<img width="1441" height="747" alt="Scree<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 33 PM" src="https://github.com/user-attachments/assets/fac92bce-b8fd-4c4a-96a4-646521fd4f96" />
+nshot 2026-01-12 at 7 33 09 PM" src="https://github.com/user-attachments/assets/07fee75c-0e40-4033-ab8f-d9<img width="1441" height="737" alt="Screenshot 2026-01-12 at 7 48 41 PM" src="https://github.com/user-attachments/assets/0a2bd39a-5d04-48dd-9a9e-db122cc3f1bf" />
+6015cf74a8" />
+s/cohort-compare.png)
 ![Auto Insights](screenshots/auto-insights.png)
 
 ## 🚀 Why This Project Matters
